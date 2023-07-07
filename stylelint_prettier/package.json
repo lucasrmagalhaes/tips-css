@@ -11,7 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "prettier": "^2.7.1",
-    "stylelint": "^14.10.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-standard": "^27.0.0"
   }
